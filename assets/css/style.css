@@ -10,9 +10,7 @@ td {
   border: 3px solid rgb(159, 127, 188);
   text-align: center;
   }
-.col-2,
-.col-3,
-.col-4 {
+.col {
   width: 120px;
   font-weight: 700;
   background-color: #f1ebb4;
